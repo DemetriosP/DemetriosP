@@ -1,4 +1,4 @@
-## Eu sou Demetrios Pantaleão
+## Eu sou Demetrios Pantaleão, atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
 <div align="center">
   <a href="https://github.com/DemetriosP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DemetriosP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
